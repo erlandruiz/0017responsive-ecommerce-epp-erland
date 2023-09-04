@@ -30,3 +30,7 @@ Contacto
 
 
 Utilizando el color amarillo #FFD20A
+
+# Carpeta lib
+
+Para conexiones de puntos externos
